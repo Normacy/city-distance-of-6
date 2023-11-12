@@ -1,2 +1,3 @@
 # city-distance-of-6
-A Unciv mod which increases the minimum city distance to 5
+
+Unciv mod. Increases the minimal city distance to 6
