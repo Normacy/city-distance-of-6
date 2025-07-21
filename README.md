@@ -1,3 +1,3 @@
-# city-distance-of-6
+# city work expansion 
 
-Unciv mod. Increases the minimal city distance to 6
+Unciv mod. Increases the city work range by 10
